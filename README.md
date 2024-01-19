@@ -46,7 +46,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rpzim&theme=dark&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
