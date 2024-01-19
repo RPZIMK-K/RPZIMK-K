@@ -5,6 +5,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rpzim&show_icons=true&count_private=true&hide_border=true&title_color=acacac&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Pinheiro's github stats" /> 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RPzim&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=00D4EB&fire=00FF87&ring=00C27A&currStreakNum=45EB00&currStreakLabel=00EB73&sideNums=86DFEB&sideLabels=A8E9EB&dates=00EB8B" alt="GitHub Streak" /></a>
+  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpzim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
