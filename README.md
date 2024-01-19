@@ -4,17 +4,17 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rpzim&show_icons=true&count_private=true&hide_border=true&title_color=acacac&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Pinheiro's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RPZIMK-K&show_icons=true&count_private=true&hide_border=true&title_color=acacac&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Pinheiro's github stats" /> 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RPzim&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=00D4EB&fire=00FF87&ring=00C27A&currStreakNum=45EB00&currStreakLabel=00EB73&sideNums=86DFEB&sideLabels=A8E9EB&dates=00EB8B" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RPZIMK-K&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&stroke=00D4EB&fire=00FF87&ring=00C27A&currStreakNum=45EB00&currStreakLabel=00EB73&sideNums=86DFEB&sideLabels=A8E9EB&dates=00EB8B" alt="GitHub Streak" /></a>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpzim&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPZIMK-K&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![RPZIMK_K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rpzim&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RPZIMK_K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RPZIMK-K&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rpzim&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RPZIMK-K&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -49,7 +49,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rpzim}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RPZIMK-K}/count.svg" /></p> 
 <br></div>
 
 
