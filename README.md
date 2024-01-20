@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RPZIMK-K&show_icons=true&count_private=true&hide_border=true&title_color=acacac&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo Pinheiro's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RPZIMK-K&text_color=fff&show_icons=true&count_private=true&hide_border=true&theme=shadow_red" alt="Rodrigo Pinheiro's github stats" /> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RPZIMK-K&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=EB9292)](https://git.io/streak-stats)
   
