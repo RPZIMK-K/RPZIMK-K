@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=38&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=900&height=90&lines=E+a%C3%AD%2C+galera!+Rodrigo%2C+14+anos;estou+aqui+para+provar+que+a;adolesc%C3%AAncia+e+o+desenvolvimento;+de+software+podem+andar+de+m%C3%A3os+dadas.;Se+voc%C3%AA+acha+que+c%C3%B3digos;+e+adolesc%C3%AAncia+s%C3%A3o+incompat%C3%ADveis%2C;+estou+pronto+para+mudar+essa;perspectiva!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=38&pause=1000&center=verdadeiro&vCenter=verdadeiro&repeat=falso&random=falso&width=900&height=90&lines=E+a%C3%AD%2C+galera!+Rodrigo%2C+14+anos;estou+aqui+para+provar+que+a;adolesc%C3%AAncia+e+o+desenvolvimento;+de+software+podem+andar+de+m%C3%A3os+dadas.;Se+voc%C3%AA+acha+que+c%C3%B3digos;+e+adolesc%C3%AAncia+s%C3%A3o+incompat%C3%ADveis%2C;+estou+pronto+para+mudar+essa;perspectiva!)](https://git.io/typing-svg)
   
 </div>
 
