@@ -1,25 +1,24 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=120&section=header"/>
+
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rodrigo+Pinheiro;I'm+14+years+old;I+am+from+Moju,+PA;I+study+analysis+and+systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-
-
-<div align="center">  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=38&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=900&height=90&lines=E+a%C3%AD%2C+galera!+Rodrigo%2C+14+anos;estou+aqui+para+provar+que+a;adolesc%C3%AAncia+e+o+desenvolvimento;+de+software+podem+andar+de+m%C3%A3os+dadas.;Se+voc%C3%AA+acha+que+c%C3%B3digos;+e+adolesc%C3%AAncia+s%C3%A3o+incompat%C3%ADveis%2C;+estou+pronto+para+mudar+essa;perspectiva!)](https://git.io/typing-svg)
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RPZIMK-K&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RPZIMK-K&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=EBEBEB&fire=007EEB&ring=0EC0EB&currStreakLabel=0A8CEB)](https://git.io/streak-stats)
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RPZIMK-K&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![RPZIMK_K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RPZIMK-K&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RPZIMK-K&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RPZIMK-K&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RPZIMK-K&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=EBEBEB&fire=007EEB&ring=0EC0EB&currStreakLabel=0A8CEB" alt="GitHub Streak" /></a>
 
+[![RPZIMK-K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RPZIMK-K&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RPZIMK-K&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RPZIMK-K&theme=react-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
