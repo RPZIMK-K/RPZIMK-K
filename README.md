@@ -8,21 +8,21 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RPZIMK-K&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sr-Christian&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RPZIMK-K&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sr-Christian&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RPZIMK-K&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=EBEBEB&fire=007EEB&ring=0EC0EB&currStreakLabel=0A8CEB" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sr-Christian&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&border=EBEBEB&fire=007EEB&ring=0EC0EB&currStreakLabel=0A8CEB" alt="GitHub Streak" /></a>
 
-[![RPZIMK-K's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RPZIMK-K&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sr-Christian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sr-Christian&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RPZIMK-K&theme=react-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sr-Christian&theme=react-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/rpzimk_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/christianxz._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -53,7 +53,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RPZIMK-K}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Sr-Christian}/count.svg" /></p> 
 <br></div>
 
 
